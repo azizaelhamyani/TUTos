@@ -14,6 +14,9 @@ function chargerCategories(){
 }
 document.querySelector("#section-form").addEventListener("submit",event=>{
     event.preventDefault();
+nnnn
+
+
 
     const nom = document.querySelector("#cat-nom").Value;
     const couleur = document.querySelector("#cat-couleur").Value;
