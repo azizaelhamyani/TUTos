@@ -25,6 +25,9 @@ nnnn
         nom: nom,
         couleur: couleur,icone: icone
     };
+
+
+    
     fetch(API_URL,{
         method:"POST",
         headers: {
