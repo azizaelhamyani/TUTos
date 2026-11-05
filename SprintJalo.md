@@ -13,6 +13,7 @@ section {
   padding: 60px 80px;
 }
 
+
 h1 {
   color: #4f46e5;
   font-size: 42px;
